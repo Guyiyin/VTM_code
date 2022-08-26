@@ -1,0 +1,2 @@
+请假解压后的source源文件替换本地VTM的source文件夹，在DepQuant.cpp源码中，打开
+#CUT宏指令部分即为修改部分，打开#ori宏指令即为未修改部分。
